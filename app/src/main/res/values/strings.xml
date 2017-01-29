@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">(b)Icycle</string>
+    <string name="header_top">Winter Cycling is </string>
+    <string name="header_bottom">fun</string>
+    <string name="placeholder">placeholder</string>
+    <string name="windproof">Windproof</string>
+    <string name="waterproof">Waterproof</string>
+    <string name="well_insulated">Well-insulated</string>
+    <string name="breathable">Breathable</string>
 </resources>
